@@ -1,2 +1,2 @@
 # eukoalyptus.github.io
-Superior Repo
+Eukoalyptus Repo
