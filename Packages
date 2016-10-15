@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Eukoalyptus <eukoalyptus@web.de>
 Depends: mobilesubstrate
 Filename: debs/com.eukoalyptus.minimalisticui_1.3-3+debug-1+debug_iphoneos-arm.deb
-Size: 26138
+Size: 25818
 MD5sum: 546b63268325e20b5524dac292275d33
 SHA1: d96b0e41c0bdb5596122f6dacc17144e3d998e36
 SHA256: 888533abaf48a7db213829643f91523dc97b48405e79c48d2bfb6ddc6f1be84b
