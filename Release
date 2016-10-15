@@ -1,0 +1,9 @@
+Origin: Superior Repo
+Label: Superior
+Suite: stable
+Version: 1.0
+Codename: Superior
+Architectures: iphoneos-arm
+Components: main
+Description: Superior Repo
+MD5Sum:

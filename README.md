@@ -1,2 +1,2 @@
-# eukoalyptus.github.io
-Cydia Repo https://eukoalyptus.github.io
+# superior.github.io
+Superior Repo

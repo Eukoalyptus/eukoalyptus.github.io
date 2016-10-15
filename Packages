@@ -1,0 +1,15 @@
+Package: com.eukoalyptus.minimalisticui
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Superior <eukoalyptus@web.de>
+Depends: mobilesubstrate
+Filename: debs//MinimalisticUI
+Size: 26138
+MD5sum: 4F1B7B562F0A04A0B4F7E735EB10C5C5
+SHA1: E114608BDE219E255E95927161A3DF15A43A5A5D
+SHA256: 19539C2599746E4A4D6E9792FE0EB1425F047A4541DAE1BA0DB9469A3D9699AB
+Section: Tweaks
+Description: Collection of Tweaks to make a minimalistic User Interface
+Author: Eukoalyptus <eukoalyptus@web.de>
+Depiction: http://decimation.github.io/depictions/index.html?p=com.eukoalyptus.minimalisticui
+Name: MinimalisticUI
