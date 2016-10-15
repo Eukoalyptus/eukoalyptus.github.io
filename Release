@@ -1,9 +1,9 @@
-Origin: Superior Repo
-Label: Superior
+Origin: Eukoalyptus' Repo
+Label: Eukoalyptus
 Suite: stable
 Version: 1.0
-Codename: Superior
+Codename: Eukoalyptus
 Architectures: iphoneos-arm
 Components: main
-Description: Superior Repo
+Description: Eukoalyptus' Repo
 MD5Sum:

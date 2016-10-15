@@ -1,2 +1,2 @@
-# superior.github.io
+# eukoalyptus.github.io
 Superior Repo
