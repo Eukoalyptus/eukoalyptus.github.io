@@ -358,13 +358,13 @@
 			border: solid white;
 			border-radius: 15px;
 			color: #ffffff;
-			margin: 1em;
-			font-size: 30px;
+			margin: 0.8em;
+			font-size: 28px;
 		}
 
 			abc:hover {
-				border-radius: 4px;
-				font-size: 34px;
+				border-radius: 0px;
+				font-size: 33px;
 				margin: 0.3em;
 				color: #1cb495 !important;
 				text-decoration: none;
