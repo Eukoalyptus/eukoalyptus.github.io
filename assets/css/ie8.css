@@ -1,27 +1,21 @@
 /*
-	Eventually by HTML5 UP
-	html5up.net | @n33co
+	Editorial by HTML5 UP
+	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* BG */
+/* Button */
 
-	#bg {
-		-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=25)";
+	input[type="submit"],
+	input[type="reset"],
+	input[type="button"],
+	button,
+	.button {
+		border: solid 2px #f56a6a;
 	}
 
-/* Type */
+/* Posts */
 
-	body, input, select, textarea {
-		color: #fff;
-	}
-
-/* Form */
-
-	input[type="text"],
-	input[type="password"],
-	input[type="email"],
-	select,
-	textarea {
-		border: solid 2px #fff;
+	.posts article {
+		width: 40%;
 	}
